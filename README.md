@@ -1,8 +1,8 @@
 # issrc_2025_pi_practico_01
-</n>Tecnicatura en Desarrollo Web - ISSRC
-</n>Profesor: Bozzo, Javier
-</n>Estudiante: Fontana, Fernando
-</n>Asignatura: Proyecto Integrador I
-</n>Año: 2025
-</n>Tema: Primer entrega de trabajo practico - Introduccion a HTML
-</n>Contenido: Codigo fuente que estructura de un sitio web base HTML segun guia sergiecode. Aplicación de estilos con CSS y referencia a recursos multimediales propios.
+<br>Tecnicatura en Desarrollo Web - ISSRC
+<br>Profesor: Bozzo, Javier
+<br>Estudiante: Fontana, Fernando
+<br>Asignatura: Proyecto Integrador I
+<br>Año: 2025
+<br>Tema: Primer entrega de trabajo practico - Introduccion a HTML
+<br>Contenido: Codigo fuente que estructura de un sitio web base HTML segun guia sergiecode. Aplicación de estilos con CSS y referencia a recursos multimediales propios.
