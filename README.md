@@ -8,4 +8,4 @@
 <br>Estudiante: Fontana, Fernando
 <br>
 <br>Tema: Primer entrega de trabajo practico - Introduccion a HTML
-<br>Contenido: Codigo fuente que estructura de un sitio web base HTML segun guia sergiecode. Aplicación de estilos con CSS y referencia a recursos multimediales propios.
+<br>Contenido: Codigo fuente en HTML que estructura un sitio web base segun guia sergiecode. Aplicación de estilos con CSS y referencia a recursos multimediales propios.
